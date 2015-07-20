@@ -77,3 +77,13 @@ body {
 .thumbnail{
   border: none;
 }
+
+.row.recommended-people{
+  background-color: #EEEEEE;
+  width: 100%;
+  height: 150px;
+
+  .rec-input{
+    width: 20%;
+  }
+}
